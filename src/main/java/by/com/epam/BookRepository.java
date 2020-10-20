@@ -4,7 +4,7 @@ import by.com.epam.model.Book;
 import by.com.epam.model.BookTagType;
 
 import java.util.List;
-
+//interface to create books
 public interface BookRepository {
     void addBook(Book book);
 
