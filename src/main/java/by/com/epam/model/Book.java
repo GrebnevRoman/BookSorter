@@ -1,7 +1,7 @@
 package by.com.epam.model;
 
 import java.util.Objects;
-
+//
 public class Book {
     private final String bookTitle;
     private final int bookYear;
