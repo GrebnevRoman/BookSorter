@@ -1,6 +1,6 @@
 package by.com.epam.Specification;
 import by.com.epam.model.BookTagType;
-
+//
 public class SpecificationFactory {
     public Specification createSpec(BookTagType param) {
         switch (param) {
